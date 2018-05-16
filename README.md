@@ -20,7 +20,7 @@ Use LSB algorithm to insert secret message to audio file (*.WAV)
 
 	Administrator:
 		id: administrator
-		pw: 0123456789
+		pw: 1234567890
 
 
 !!! CONTACT ME !!!
